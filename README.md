@@ -1,3 +1,5 @@
+![System Info View](https://github.com/Itzhep/SystemInfoView/tree/main/Image/SystemInfoView.png)
+
 # SystemInfoView
 SystemInfoView is a Bash script for live system performance monitoring, offering an aesthetically pleasing and informative display. Keep an eye on CPU usage, memory stats, disk usage, network activity, and more.
 
