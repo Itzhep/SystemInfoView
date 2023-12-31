@@ -19,7 +19,22 @@ cd SystemInfoView
 ```bash
 chmod +x SystemInfoView.sh
 ```
-# Run the Script:
+## Use With TypeScrpt:
+```bash
+# Install TypeScript globally (if not already installed)
+npm install -g typescript
+
+# Compile the TypeScript code to JavaScript
+tsc systemCheckup.ts
+
+# Run the generated JavaScript code
+node systemCheckup.js
+```
+## Use With Python:
+```bash
+Python main.py
+```
+# Run the Script With Bash:
 ```bash
 ./SystemInfoView.sh
 ```
